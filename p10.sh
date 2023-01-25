@@ -1,6 +1,5 @@
 #!/bin/sh
 
-# take two numbers from the user
 echo "Enter two numbers: "
 read a b
 
